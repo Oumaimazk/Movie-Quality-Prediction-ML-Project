@@ -1,7 +1,7 @@
 # Movie Quality Prediction Project 🎬
 
 ## Overview
-This project, developed by **Group 11 (gr11)**, focuses on predicting whether a movie will be classified as "Good" or "Bad" based on various features such as popularity, vote count, genres, and release information. The project compares standard machine learning implementations using **Scikit-Learn** with a **custom Logistic Regression model built from scratch**.
+This project, focuses on predicting whether a movie will be classified as "Good" or "Bad" based on various features such as popularity, vote count, genres, and release information. The project compares standard machine learning implementations using **Scikit-Learn** with a **custom Logistic Regression model built from scratch**.
 
 ## 📊 Dataset
 The project uses a dataset containing approximately **10,000 movies** with the following information:
